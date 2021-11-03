@@ -12,6 +12,7 @@ Sport
 
 Cool movies
 <img align = "left" alt="html5" width="35px" src="https://i1.7fon.org/thumb/b335996.jpg"/>
+  </div>
 
   
 - 🌱 I’m currently learning ...
