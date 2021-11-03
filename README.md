@@ -3,6 +3,7 @@
 
 - <h3>👀 I’m interested in: </h3
   
+<div display="flex" align-items="center">
 Web development
 <img align = "left" alt="html5" width="35px" src="https://raw.githubusercontent.com/github/explore/ac83ae6ab1d3c5c5122805caa44d7fa2b9ca5be3/topics/web/web.png"/>
   
