@@ -4,7 +4,7 @@
 <img align = "left" alt="html5" width="35px" src="https://raw.githubusercontent.com/github/explore/ac83ae6ab1d3c5c5122805caa44d7fa2b9ca5be3/topics/web/web.png"/>
 <img align = "left" alt="html5" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Simple_Soccer_Ball.svg/2048px-Simple_Soccer_Ball.svg.png"/>
 <img align = "left" alt="html5" width="35px" src="https://i1.7fon.org/thumb/b335996.jpg"/>
-
+</br>
 
   
 <h3>🌱 I’m currently learning</h3>
