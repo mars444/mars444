@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m @mars444</h1>
 <hr color="green">
 <h3>👀 I’m interested in: </h3
- <div>
+ <div dispaly:"flex">
 Web development
 <img  alt="html5" width="35px" src="https://raw.githubusercontent.com/github/explore/ac83ae6ab1d3c5c5122805caa44d7fa2b9ca5be3/topics/web/web.png"/>
   
