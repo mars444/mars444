@@ -1,4 +1,5 @@
-<h1 align="center">👋 Hi, I’m Petr Pamuzhak4</h1>
+<h1 align="center">👋 Hi, I’m Petr Pamuzhak</h1>
+<h3 align="center">I’m beginner front-end developer</h3>
 
 
 <h3>I’m interested in: </h3>
