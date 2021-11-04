@@ -19,8 +19,6 @@
 </br>
 <hr color="green">
 </br>
-<h3 weight="bold">How to reach me</h3>
-  
 ### My skils and tools
 <img align = "left" alt="html5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align = "left" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
@@ -39,3 +37,5 @@
 <p>
 &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mars444&show_icons=true&locale=en&layout=compact" alt="mars444" />
 </p>
+</br>
+<h3 weight="bold">How to reach me</h3>
