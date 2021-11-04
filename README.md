@@ -32,7 +32,7 @@
 <hr color="green">
 
 <h3 align="center" margin:"0 auto">Stats:</h3>
-<p><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=mars444&show_icons=true&locale=en&theme=vue" alt="mars444" />
-<img height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mars444&show_icons=true&locale=en&layout=compact&theme=vue" alt="mars444" />
+<p><img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=mars444&show_icons=true&locale=en&theme=vue" alt="mars444" />
+<img height="150px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mars444&show_icons=true&locale=en&layout=compact&theme=vue" alt="mars444" />
 </p>
 
