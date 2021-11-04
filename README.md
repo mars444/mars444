@@ -6,7 +6,7 @@
 <img align = "left" alt="html5" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Simple_Soccer_Ball.svg/2048px-Simple_Soccer_Ball.svg.png"/>
 <img align = "left" alt="html5" width="35px" src="https://i1.7fon.org/thumb/b335996.jpg"/>
 </br>
-
+<hr color="green">
   
 ### I’m currently learning
 <img align = "left" alt="Webpack" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"/>
