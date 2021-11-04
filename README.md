@@ -33,6 +33,6 @@
 
 <h3 align="center" margin:"0 auto">Stats:</h3>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mars444&show_icons=true&locale=en&layout=compact" alt="mars444" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mars444&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="mars444" />
 </p>
 
