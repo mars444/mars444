@@ -1,4 +1,3 @@
-<p> <img src="https://komarev.com/ghpvc/?username=mars444&label=Profile%20views&color=0e75b6&style=flat" alt="mars444" /> </p>
 <h1 align="center">👋 Hi, I’m Petr Pamuzhak</h1>
 <h3 align="center">I’m front-end developer</h3>
 
@@ -39,3 +38,4 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mars444&show_icons=true&theme=chartreuse-light)
+<p> <img src="https://komarev.com/ghpvc/?username=mars444&label=Profile%20views&color=0e75b6&style=flat" alt="mars444" /> </p>
