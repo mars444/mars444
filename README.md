@@ -1,11 +1,6 @@
 <h1 align="center">👋 Hi, I’m Petr Pamuzhak</h1>
 <h3 align="center">I’m front-end developer</h3>
 
-### I study in
-[BMSTU](https://bmstu.ru/)<br>
-[Школа 21 Сбер](https://21-school.ru/)<br>
-[VK education](https://education.vk.company/)
-
 ### 📋 Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
