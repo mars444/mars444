@@ -36,4 +36,4 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mars444&show_icons=true&theme=chartreuse-light)
-<p> <img src="https://komarev.com/ghpvc/?username=mars444&label=Profile%20views&color=0e75b6&style=flat" alt="mars444" /> </p>
+
