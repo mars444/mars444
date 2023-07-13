@@ -2,7 +2,7 @@
 <h3 align="center">I’m front-end developer</h3>
 
 ### I study in
-[BMSTU]([https://park.vk.company](https://bmstu.ru/))<br>
+[BMSTU](https://bmstu.ru/)<br>
 [Школа 21 Сбер](https://21-school.ru/)<br>
 [VK education](https://education.vk.company/)
 
