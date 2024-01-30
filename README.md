@@ -23,7 +23,7 @@
 ![Oracle Database](https://img.shields.io/badge/oracle-%23316192.svg?style=for-the-badge&logo=oracle&logoColor=black)
 
 ### 🎨 Design
-![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
+![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=plastic)
 
 ### 🥅 Other
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
